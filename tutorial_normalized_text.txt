@@ -1,0 +1,172 @@
+![](/images/loading-cg.gif)
+
+#  [ ![tutorialspoint](/javascript/images/logo.png) ](index.htm
+"tutorialspoint" )
+
+__
+
+  * [__ Home](index.htm)
+  * [ Tutorials Library __](javascript:void\(0\);)
+  * [__ Coding Ground ](codingground.htm)
+  * [_ _ Tutor Connect](tutor_connect/index.php)
+  * [ Tools](online_dev_tools.htm)
+
+__ Search
+
+![Javascript Tutorial](/javascript/images/javascript-mini-logo.jpg)
+
+  * Javascript Basics Tutorial
+  * [Javascript - Home](/javascript/index.htm)
+  * [Javascript - Overview](/javascript/javascript_overview.htm)
+  * [Javascript - Syntax](/javascript/javascript_syntax.htm)
+  * [Javascript - Enabling](/javascript/javascript_enabling.htm)
+  * [Javascript - Placement](/javascript/javascript_placement.htm)
+  * [Javascript - Variables](/javascript/javascript_variables.htm)
+  * [Javascript - Operators](/javascript/javascript_operators.htm)
+  * [Javascript - If...Else](/javascript/javascript_ifelse.htm)
+  * [Javascript - Switch Case](/javascript/javascript_switch_case.htm)
+  * [Javascript - While Loop](/javascript/javascript_while_loop.htm)
+  * [Javascript - For Loop](/javascript/javascript_for_loop.htm)
+  * [Javascript - For...in](/javascript/javascript_forin_loop.htm)
+  * [Javascript - Loop Control](/javascript/javascript_loop_control.htm)
+  * [Javascript - Functions](/javascript/javascript_functions.htm)
+  * [Javascript - Events](/javascript/javascript_events.htm)
+  * [Javascript - Cookies](/javascript/javascript_cookies.htm)
+  * [Javascript - Page Redirect](/javascript/javascript_page_redirect.htm)
+  * [Javascript - Dialog Boxes](/javascript/javascript_dialog_boxes.htm)
+  * [Javascript - Void Keyword](/javascript/javascript_void_keyword.htm)
+  * [Javascript - Page Printing](/javascript/javascript_page_printing.htm)
+  * JavaScript Objects
+  * [Javascript - Objects](/javascript/javascript_objects.htm)
+  * [Javascript - Number](/javascript/javascript_number_object.htm)
+  * [Javascript - Boolean](/javascript/javascript_boolean_object.htm)
+  * [Javascript - Strings](/javascript/javascript_strings_object.htm)
+  * [Javascript - Arrays](/javascript/javascript_arrays_object.htm)
+  * [Javascript - Date](/javascript/javascript_date_object.htm)
+  * [Javascript - Math](/javascript/javascript_math_object.htm)
+  * [Javascript - RegExp](/javascript/javascript_regexp_object.htm)
+  * [Javascript - HTML DOM](/javascript/javascript_html_dom.htm)
+  * JavaScript Advanced
+  * [Javascript - Error Handling](/javascript/javascript_error_handling.htm)
+  * [Javascript - Validations](/javascript/javascript_form_validations.htm)
+  * [Javascript - Animation](/javascript/javascript_animation.htm)
+  * [Javascript - Multimedia](/javascript/javascript_multimedia.htm)
+  * [Javascript - Debugging](/javascript/javascript_debugging.htm)
+  * [Javascript - Image Map](/javascript/javascript_image_map.htm)
+  * [Javascript - Browsers](/javascript/javascript_browsers_handling.htm)
+  * IMS DB Resources
+  * [Javascript - Questions And Answers](/javascript/javascript_questions_answers.htm)
+  * [Javascript - Quick Guide](/javascript/javascript_quick_guide.htm)
+  * [Javascript - Functions](/javascript/javascript_builtin_functions.htm)
+  * [Javascript - Resources](/javascript/javascript_resources.htm)
+  * Selected Reading
+  * [Developer's Best Practices](/developers_best_practices/index.htm)
+  * [Questions and Answers](/questions_and_answers.htm)
+  * [Effective Resume Writing](/effective_resume_writing.htm)
+  * [HR Interview Questions](/hr_interview_questions/index.htm)
+  * [Computer Glossary](/computer_glossary.htm)
+  * [Who is Who](/computer_whoiswho.htm)
+
+# JavaScript - Document Object Model or DOM
+
+* * *
+
+Advertisements
+
+* * *
+
+[__ Previous Page](/javascript/javascript_regexp_object.htm)
+
+[Next Page __ ](/javascript/javascript_error_handling.htm)
+
+* * *
+
+Every web page resides inside a browser window which can be considered as an
+object.
+
+A Document object represents the HTML document that is displayed in that
+window. The Document object has various properties that refer to other objects
+which allow access to and modification of document content.
+
+The way a document content is accessed and modified is called the **Document
+Object Model**, or **DOM**. The Objects are organized in a hierarchy. This
+hierarchical structure applies to the organization of objects in a Web
+document.
+
+  * **Window object** − Top of the hierarchy. It is the outmost element of the object hierarchy.
+
+  * **Document object** − Each HTML document that gets loaded into a window becomes a document object. The document contains the contents of the page.
+
+  * **Form object** − Everything enclosed in the &lt;form&gt;...&lt;/form&gt; tags sets the form object.
+
+  * **Form control elements** − The form object contains all the elements defined for that object such as text fields, buttons, radio buttons, and checkboxes.
+
+Here is a simple hierarchy of a few important objects −
+
+![HTML DOM](/javascript/images/html-dom.jpg)
+
+There are several DOMs in existence. The following sections explain each of
+these DOMs in detail and describe how you can use them to access and modify
+document content.
+
+  * [The Legacy DOM](/javascript/javascript_legacy_dom.htm) − This is the model which was introduced in early versions of JavaScript language. It is well supported by all browsers, but allows access only to certain key portions of documents, such as forms, form elements, and images.
+
+  * [The W3C DOM](/javascript/javascript_w3c_dom.htm) − This document object model allows access and modification of all document content and is standardized by the World Wide Web Consortium (W3C). This model is supported by almost all the modern browsers.
+
+  * [The IE4 DOM](/javascript/javascript_ie4_dom.htm) − This document object model was introduced in Version 4 of Microsoft's Internet Explorer browser. IE 5 and later versions include support for most basic W3C DOM features.
+
+## DOM compatibility
+
+If you want to write a script with the flexibility to use either W3C DOM or IE
+4 DOM depending on their availability, then you can use a capability-testing
+approach that first checks for the existence of a method or property to
+determine whether the browser has the capability you desire. For example −
+
+    
+    
+    if (document.getElementById) {
+       // If the W3C method exists, use it
+    }
+    
+    else if (document.all) {
+       // If the all[] array exists, use it
+    }
+    
+    else {
+       // Otherwise use the legacy DOM
+    }
+    
+
+* * *
+
+[__ Previous Page](/javascript/javascript_regexp_object.htm)
+
+[__ Print](/cgi-bin/printpage.cgi)
+
+[__ PDF](/javascript/pdf/javascript_html_dom.pdf "JavaScript Document Object
+Model or DOM" )
+
+[Next Page __ ](/javascript/javascript_error_handling.htm)
+
+* * *
+
+Advertisements
+
+[ ![img](/images/facebookIcon.jpg) ](javascript:void\(0\)) [
+![img](/images/twitterIcon.jpg) ](javascript:void\(0\)) [
+![img](/images/linkedinIcon.jpg) ](javascript:void\(0\)) [
+![img](/images/googlePlusIcon.jpg) ](javascript:void\(0\)) [
+![img](/images/StumbleUponIcon.jpg) ](javascript:void\(0\)) [
+![img](/images/reddit.jpg) ](javascript:void\(0\))
+
+[ ![Tutorials Point](/scripts/img/logo-footer.png) ](index.htm)
+
+  * [Write for us](/about/tutorials_writing.htm)
+  * [FAQ's](/about/faq.htm)
+  * [Helping](/about/about_helping.htm)
+  * [Contact](/about/contact_us.htm)
+
+© Copyright 2016. All Rights Reserved.
+
+go
+

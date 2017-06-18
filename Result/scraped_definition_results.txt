@@ -1,0 +1,709 @@
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:li
+===
+Result:The <li> tag defines a list item.The <li> tag is used in ordered lists(<ol>), unordered lists (<ul>), and in
+menu lists (<menu>).
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:child
+===
+Result:The :nth-child(n) selector 
+matches every element that is the nth child, regardless of 
+type, of its parent.n can be a number, a keyword, or a formula.Tip: Look at the :nth-of-type() 
+selector to select the element that is the nth child, of a particular 
+type, of its parent.
+===
+Topic:document
+===
+Result:The write() method writes HTML expressions or JavaScript code to a document.The write() method is mostly used for testing: If it is used after an HTML 
+document is fully loaded, it will delete all existing HTML.Note: When this method is not used for testing, it is often 
+used to write some text to an output stream opened by the
+document.open() method. See "More Examples" 
+below.Tip: The document.writeln() 
+method is similar to write(), only it adds a newline character after each 
+statement.
+===
+Topic:append
+===
+Result:The append() method inserts specified content at the end of the selected elements.Tip: To insert content at the beginning of the selected elements, use the prepend() method.
+===
+Topic:innerhtml
+===
+Result:The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:alert
+===
+Result:The alert() method displays an alert box with a specified message and an OK button.An alert box is often used if you want to make sure information comes through to the user.Note: The alert box takes the focus away from the current window, and forces the 
+browser to read the message. Do not overuse this method, as it prevents the user 
+from accessing other parts of the page until the box is closed.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:li
+===
+Result:The <li> tag defines a list item.The <li> tag is used in ordered lists(<ol>), unordered lists (<ul>), and in
+menu lists (<menu>).
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:child
+===
+Result:The :nth-child(n) selector 
+matches every element that is the nth child, regardless of 
+type, of its parent.n can be a number, a keyword, or a formula.Tip: Look at the :nth-of-type() 
+selector to select the element that is the nth child, of a particular 
+type, of its parent.
+===
+Topic:document
+===
+Result:The write() method writes HTML expressions or JavaScript code to a document.The write() method is mostly used for testing: If it is used after an HTML 
+document is fully loaded, it will delete all existing HTML.Note: When this method is not used for testing, it is often 
+used to write some text to an output stream opened by the
+document.open() method. See "More Examples" 
+below.Tip: The document.writeln() 
+method is similar to write(), only it adds a newline character after each 
+statement.
+===
+Topic:append
+===
+Result:The append() method inserts specified content at the end of the selected elements.Tip: To insert content at the beginning of the selected elements, use the prepend() method.
+===
+Topic:innerhtml
+===
+Result:The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:alert
+===
+Result:The alert() method displays an alert box with a specified message and an OK button.An alert box is often used if you want to make sure information comes through to the user.Note: The alert box takes the focus away from the current window, and forces the 
+browser to read the message. Do not overuse this method, as it prevents the user 
+from accessing other parts of the page until the box is closed.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:li
+===
+Result:The <li> tag defines a list item.The <li> tag is used in ordered lists(<ol>), unordered lists (<ul>), and in
+menu lists (<menu>).
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:child
+===
+Result:The :nth-child(n) selector 
+matches every element that is the nth child, regardless of 
+type, of its parent.n can be a number, a keyword, or a formula.Tip: Look at the :nth-of-type() 
+selector to select the element that is the nth child, of a particular 
+type, of its parent.
+===
+Topic:document
+===
+Result:The write() method writes HTML expressions or JavaScript code to a document.The write() method is mostly used for testing: If it is used after an HTML 
+document is fully loaded, it will delete all existing HTML.Note: When this method is not used for testing, it is often 
+used to write some text to an output stream opened by the
+document.open() method. See "More Examples" 
+below.Tip: The document.writeln() 
+method is similar to write(), only it adds a newline character after each 
+statement.
+===
+Topic:append
+===
+Result:The append() method inserts specified content at the end of the selected elements.Tip: To insert content at the beginning of the selected elements, use the prepend() method.
+===
+Topic:innerhtml
+===
+Result:The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:alert
+===
+Result:The alert() method displays an alert box with a specified message and an OK button.An alert box is often used if you want to make sure information comes through to the user.Note: The alert box takes the focus away from the current window, and forces the 
+browser to read the message. Do not overuse this method, as it prevents the user 
+from accessing other parts of the page until the box is closed.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:li
+===
+Result:The <li> tag defines a list item.The <li> tag is used in ordered lists(<ol>), unordered lists (<ul>), and in
+menu lists (<menu>).
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:child
+===
+Result:The :nth-child(n) selector 
+matches every element that is the nth child, regardless of 
+type, of its parent.n can be a number, a keyword, or a formula.Tip: Look at the :nth-of-type() 
+selector to select the element that is the nth child, of a particular 
+type, of its parent.
+===
+Topic:document
+===
+Result:The write() method writes HTML expressions or JavaScript code to a document.The write() method is mostly used for testing: If it is used after an HTML 
+document is fully loaded, it will delete all existing HTML.Note: When this method is not used for testing, it is often 
+used to write some text to an output stream opened by the
+document.open() method. See "More Examples" 
+below.Tip: The document.writeln() 
+method is similar to write(), only it adds a newline character after each 
+statement.
+===
+Topic:append
+===
+Result:The append() method inserts specified content at the end of the selected elements.Tip: To insert content at the beginning of the selected elements, use the prepend() method.
+===
+Topic:innerhtml
+===
+Result:The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:alert
+===
+Result:The alert() method displays an alert box with a specified message and an OK button.An alert box is often used if you want to make sure information comes through to the user.Note: The alert box takes the focus away from the current window, and forces the 
+browser to read the message. Do not overuse this method, as it prevents the user 
+from accessing other parts of the page until the box is closed.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:li
+===
+Result:The <li> tag defines a list item.The <li> tag is used in ordered lists(<ol>), unordered lists (<ul>), and in
+menu lists (<menu>).
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:child
+===
+Result:The :nth-child(n) selector 
+matches every element that is the nth child, regardless of 
+type, of its parent.n can be a number, a keyword, or a formula.Tip: Look at the :nth-of-type() 
+selector to select the element that is the nth child, of a particular 
+type, of its parent.
+===
+Topic:document
+===
+Result:The write() method writes HTML expressions or JavaScript code to a document.The write() method is mostly used for testing: If it is used after an HTML 
+document is fully loaded, it will delete all existing HTML.Note: When this method is not used for testing, it is often 
+used to write some text to an output stream opened by the
+document.open() method. See "More Examples" 
+below.Tip: The document.writeln() 
+method is similar to write(), only it adds a newline character after each 
+statement.
+===
+Topic:append
+===
+Result:The append() method inserts specified content at the end of the selected elements.Tip: To insert content at the beginning of the selected elements, use the prepend() method.
+===
+Topic:innerhtml
+===
+Result:The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:alert
+===
+Result:The alert() method displays an alert box with a specified message and an OK button.An alert box is often used if you want to make sure information comes through to the user.Note: The alert box takes the focus away from the current window, and forces the 
+browser to read the message. Do not overuse this method, as it prevents the user 
+from accessing other parts of the page until the box is closed.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:prompt
+===
+Result:The prompt() method displays a dialog box that prompts the visitor for input.A prompt box is often used if you want the user to input a value before entering a page.Note: When a prompt box pops up, the user will have to click either "OK" or 
+"Cancel" to proceed after entering an input value. Do not overuse this 
+method, as it prevent the user from accessing other parts of the page until the 
+box is closed.The prompt() method returns the input value if the user clicks "OK". If the user clicks "cancel" the method returns null.
+===
+Topic:id
+===
+Result:The id attribute specifies a unique id for an HTML element (the  
+value must be unique within the HTML document).The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to 
+manipulate the element with the specific id.
+===
+Topic:body
+===
+Result:The <body> tag defines the document's body.The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+===
+Topic:a
+===
+Result:The <a> tag defines a hyperlink, which is used to link from one page to another.The most important attribute of the <a> element is the href attribute, which indicates the link's destination.By default, links will appear as follows in all browsers:
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:child
+===
+Result:Biologically, a child (plural: children) is a human being between the stages of birth and puberty. The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.
+Child may also describe a relationship with a parent (such as sons and daughters of any age) or, metaphorically, an authority figure, or signify group membership in a clan, tribe, or religion; it can also signify being strongly affected by a specific time, place, or circumstance, as in "a child of nature" or "a child of the Sixties".
+There are many social issues that affect children, such as childhood education, bullying, child poverty, dysfunctional families, child labor, hunger, and child homelessness. Children can be raised by parents, by fosterers, guardians or partially raised in a day care center. Bleach
+
+
+
+===
+Topic:document
+===
+Result:A document is a written, drawn, presented, or memorialized representation of thought. The word originates from the Latin documentum, which denotes a "teaching" or "lesson": the verb doceō denotes "to teach". In the past the word was usually used to denote a written proof useful as evidence of a truth or fact. In the computer age, "document" usually denotes a primarily textual computer file, including its structure and format, e. g. fonts, colors, and images. Contemporarily, "document" is not defined by its transmission medium, e. g., paper, given the existence of electronic documents. "Documentation" is distinct because it has more denotations than "document". Documents are also distinguished from "realia", which are 3 dimensional objects that would otherwise satisfy the definition of "document" because they memorialize or represent thought; documents are considered more as 2 dimensional representations.
+
+
+
+===
+Topic:append
+===
+Result:In general, to append is to join or add on to the end of something. For example, an appendix is a section appended (added to the end) of a document.
+In computer programming, append is the name of a procedure for concatenating (linked) lists or arrays in some high-level programming languages.
+
+
+
+===
+Topic:innerhtml
+===
+Result:Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.
+Internet Explorer was one of the most widely used web browsers, attaining a peak of about 95% usage share during 2002 and 2003. This came after Microsoft used bundling to win the first browser war against Netscape, which was the dominant browser in the 1990s. Its usage share has since declined with the launch of Firefox (2004) and Google Chrome (2008), and with the growing popularity of operating systems such as macOS, Linux, iOS and Android that do not run Internet Explorer. Estimates for Internet Explorer's overall market share range from 5.45% to 27.38% or by StatCounter's numbers ranked 3rd, just after Firefox (or even as low as 6th when counting all platforms, after Opera (and behind Safari)), as of August 2016 (browser market share is notoriously difficult to calculate). Microsoft spent over US$100 million per year on Internet Explorer in the late 1990s, with over 1,000 people working on it by 1999.
+Versions of Internet Explorer for other operating systems have also been produced, including Internet Explorer for Mac and Internet Explorer for UNIX (Solaris and HP-UX), an Xbox 360 version called Internet Explorer for Xbox and an embedded OEM version called Pocket Internet Explorer, later rebranded Internet Explorer Mobile made for Windows Phone, Windows CE, and previously, based on Internet Explorer 7 for Windows Mobile.
+On March 17, 2015, Microsoft announced that Microsoft Edge would replace Internet Explorer as the default browser on its Windows 10 devices. This effectively makes Internet Explorer 11 the last release. Internet Explorer, however, remains on Windows 10 primarily for enterprise purposes. Starting January 12, 2016, only Internet Explorer 11 is supported. Support varies based on the operating system's technical capabilities and its support lifecycle.
+The browser has been scrutinized throughout its development for use of third-party technology (such as the source code of Spyglass Mosaic, used without royalty in early versions) and security and privacy vulnerabilities, and the United States and the European Union have alleged that integration of Internet Explorer with Windows has been to the detriment of fair browser competition.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:child
+===
+Result:Biologically, a child (plural: children) is a human being between the stages of birth and puberty. The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.
+Child may also describe a relationship with a parent (such as sons and daughters of any age) or, metaphorically, an authority figure, or signify group membership in a clan, tribe, or religion; it can also signify being strongly affected by a specific time, place, or circumstance, as in "a child of nature" or "a child of the Sixties".
+There are many social issues that affect children, such as childhood education, bullying, child poverty, dysfunctional families, child labor, hunger, and child homelessness. Children can be raised by parents, by fosterers, guardians or partially raised in a day care center. Bleach
+
+
+
+===
+Topic:document
+===
+Result:A document is a written, drawn, presented, or memorialized representation of thought. The word originates from the Latin documentum, which denotes a "teaching" or "lesson": the verb doceō denotes "to teach". In the past the word was usually used to denote a written proof useful as evidence of a truth or fact. In the computer age, "document" usually denotes a primarily textual computer file, including its structure and format, e. g. fonts, colors, and images. Contemporarily, "document" is not defined by its transmission medium, e. g., paper, given the existence of electronic documents. "Documentation" is distinct because it has more denotations than "document". Documents are also distinguished from "realia", which are 3 dimensional objects that would otherwise satisfy the definition of "document" because they memorialize or represent thought; documents are considered more as 2 dimensional representations.
+
+
+
+===
+Topic:append
+===
+Result:In general, to append is to join or add on to the end of something. For example, an appendix is a section appended (added to the end) of a document.
+In computer programming, append is the name of a procedure for concatenating (linked) lists or arrays in some high-level programming languages.
+
+
+
+===
+Topic:innerhtml
+===
+Result:Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.
+Internet Explorer was one of the most widely used web browsers, attaining a peak of about 95% usage share during 2002 and 2003. This came after Microsoft used bundling to win the first browser war against Netscape, which was the dominant browser in the 1990s. Its usage share has since declined with the launch of Firefox (2004) and Google Chrome (2008), and with the growing popularity of operating systems such as macOS, Linux, iOS and Android that do not run Internet Explorer. Estimates for Internet Explorer's overall market share range from 5.45% to 27.38% or by StatCounter's numbers ranked 3rd, just after Firefox (or even as low as 6th when counting all platforms, after Opera (and behind Safari)), as of August 2016 (browser market share is notoriously difficult to calculate). Microsoft spent over US$100 million per year on Internet Explorer in the late 1990s, with over 1,000 people working on it by 1999.
+Versions of Internet Explorer for other operating systems have also been produced, including Internet Explorer for Mac and Internet Explorer for UNIX (Solaris and HP-UX), an Xbox 360 version called Internet Explorer for Xbox and an embedded OEM version called Pocket Internet Explorer, later rebranded Internet Explorer Mobile made for Windows Phone, Windows CE, and previously, based on Internet Explorer 7 for Windows Mobile.
+On March 17, 2015, Microsoft announced that Microsoft Edge would replace Internet Explorer as the default browser on its Windows 10 devices. This effectively makes Internet Explorer 11 the last release. Internet Explorer, however, remains on Windows 10 primarily for enterprise purposes. Starting January 12, 2016, only Internet Explorer 11 is supported. Support varies based on the operating system's technical capabilities and its support lifecycle.
+The browser has been scrutinized throughout its development for use of third-party technology (such as the source code of Spyglass Mosaic, used without royalty in early versions) and security and privacy vulnerabilities, and the United States and the European Union have alleged that integration of Internet Explorer with Windows has been to the detriment of fair browser competition.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:child
+===
+Result:Biologically, a child (plural: children) is a human being between the stages of birth and puberty. The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.
+Child may also describe a relationship with a parent (such as sons and daughters of any age) or, metaphorically, an authority figure, or signify group membership in a clan, tribe, or religion; it can also signify being strongly affected by a specific time, place, or circumstance, as in "a child of nature" or "a child of the Sixties".
+There are many social issues that affect children, such as childhood education, bullying, child poverty, dysfunctional families, child labor, hunger, and child homelessness. Children can be raised by parents, by fosterers, guardians or partially raised in a day care center. Bleach
+
+
+
+===
+Topic:document
+===
+Result:A document is a written, drawn, presented, or memorialized representation of thought. The word originates from the Latin documentum, which denotes a "teaching" or "lesson": the verb doceō denotes "to teach". In the past the word was usually used to denote a written proof useful as evidence of a truth or fact. In the computer age, "document" usually denotes a primarily textual computer file, including its structure and format, e. g. fonts, colors, and images. Contemporarily, "document" is not defined by its transmission medium, e. g., paper, given the existence of electronic documents. "Documentation" is distinct because it has more denotations than "document". Documents are also distinguished from "realia", which are 3 dimensional objects that would otherwise satisfy the definition of "document" because they memorialize or represent thought; documents are considered more as 2 dimensional representations.
+
+
+
+===
+Topic:append
+===
+Result:In general, to append is to join or add on to the end of something. For example, an appendix is a section appended (added to the end) of a document.
+In computer programming, append is the name of a procedure for concatenating (linked) lists or arrays in some high-level programming languages.
+
+
+
+===
+Topic:innerhtml
+===
+Result:Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.
+Internet Explorer was one of the most widely used web browsers, attaining a peak of about 95% usage share during 2002 and 2003. This came after Microsoft used bundling to win the first browser war against Netscape, which was the dominant browser in the 1990s. Its usage share has since declined with the launch of Firefox (2004) and Google Chrome (2008), and with the growing popularity of operating systems such as macOS, Linux, iOS and Android that do not run Internet Explorer. Estimates for Internet Explorer's overall market share range from 5.45% to 27.38% or by StatCounter's numbers ranked 3rd, just after Firefox (or even as low as 6th when counting all platforms, after Opera (and behind Safari)), as of August 2016 (browser market share is notoriously difficult to calculate). Microsoft spent over US$100 million per year on Internet Explorer in the late 1990s, with over 1,000 people working on it by 1999.
+Versions of Internet Explorer for other operating systems have also been produced, including Internet Explorer for Mac and Internet Explorer for UNIX (Solaris and HP-UX), an Xbox 360 version called Internet Explorer for Xbox and an embedded OEM version called Pocket Internet Explorer, later rebranded Internet Explorer Mobile made for Windows Phone, Windows CE, and previously, based on Internet Explorer 7 for Windows Mobile.
+On March 17, 2015, Microsoft announced that Microsoft Edge would replace Internet Explorer as the default browser on its Windows 10 devices. This effectively makes Internet Explorer 11 the last release. Internet Explorer, however, remains on Windows 10 primarily for enterprise purposes. Starting January 12, 2016, only Internet Explorer 11 is supported. Support varies based on the operating system's technical capabilities and its support lifecycle.
+The browser has been scrutinized throughout its development for use of third-party technology (such as the source code of Spyglass Mosaic, used without royalty in early versions) and security and privacy vulnerabilities, and the United States and the European Union have alleged that integration of Internet Explorer with Windows has been to the detriment of fair browser competition.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:child
+===
+Result:Biologically, a child (plural: children) is a human being between the stages of birth and puberty. The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.
+Child may also describe a relationship with a parent (such as sons and daughters of any age) or, metaphorically, an authority figure, or signify group membership in a clan, tribe, or religion; it can also signify being strongly affected by a specific time, place, or circumstance, as in "a child of nature" or "a child of the Sixties".
+There are many social issues that affect children, such as childhood education, bullying, child poverty, dysfunctional families, child labor, hunger, and child homelessness. Children can be raised by parents, by fosterers, guardians or partially raised in a day care center. Bleach
+
+
+
+===
+Topic:document
+===
+Result:A document is a written, drawn, presented, or memorialized representation of thought. The word originates from the Latin documentum, which denotes a "teaching" or "lesson": the verb doceō denotes "to teach". In the past the word was usually used to denote a written proof useful as evidence of a truth or fact. In the computer age, "document" usually denotes a primarily textual computer file, including its structure and format, e. g. fonts, colors, and images. Contemporarily, "document" is not defined by its transmission medium, e. g., paper, given the existence of electronic documents. "Documentation" is distinct because it has more denotations than "document". Documents are also distinguished from "realia", which are 3 dimensional objects that would otherwise satisfy the definition of "document" because they memorialize or represent thought; documents are considered more as 2 dimensional representations.
+
+
+
+===
+Topic:append
+===
+Result:In general, to append is to join or add on to the end of something. For example, an appendix is a section appended (added to the end) of a document.
+In computer programming, append is the name of a procedure for concatenating (linked) lists or arrays in some high-level programming languages.
+
+
+
+===
+Topic:innerhtml
+===
+Result:Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.
+Internet Explorer was one of the most widely used web browsers, attaining a peak of about 95% usage share during 2002 and 2003. This came after Microsoft used bundling to win the first browser war against Netscape, which was the dominant browser in the 1990s. Its usage share has since declined with the launch of Firefox (2004) and Google Chrome (2008), and with the growing popularity of operating systems such as macOS, Linux, iOS and Android that do not run Internet Explorer. Estimates for Internet Explorer's overall market share range from 5.45% to 27.38% or by StatCounter's numbers ranked 3rd, just after Firefox (or even as low as 6th when counting all platforms, after Opera (and behind Safari)), as of August 2016 (browser market share is notoriously difficult to calculate). Microsoft spent over US$100 million per year on Internet Explorer in the late 1990s, with over 1,000 people working on it by 1999.
+Versions of Internet Explorer for other operating systems have also been produced, including Internet Explorer for Mac and Internet Explorer for UNIX (Solaris and HP-UX), an Xbox 360 version called Internet Explorer for Xbox and an embedded OEM version called Pocket Internet Explorer, later rebranded Internet Explorer Mobile made for Windows Phone, Windows CE, and previously, based on Internet Explorer 7 for Windows Mobile.
+On March 17, 2015, Microsoft announced that Microsoft Edge would replace Internet Explorer as the default browser on its Windows 10 devices. This effectively makes Internet Explorer 11 the last release. Internet Explorer, however, remains on Windows 10 primarily for enterprise purposes. Starting January 12, 2016, only Internet Explorer 11 is supported. Support varies based on the operating system's technical capabilities and its support lifecycle.
+The browser has been scrutinized throughout its development for use of third-party technology (such as the source code of Spyglass Mosaic, used without royalty in early versions) and security and privacy vulnerabilities, and the United States and the European Union have alleged that integration of Internet Explorer with Windows has been to the detriment of fair browser competition.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
+Topic:a
+===
+Result:A (named /ˈeɪ/, plural As, A's, as, a's or aes) is the first letter and the first vowel in the ISO basic Latin alphabet. It is similar to the Ancient Greek letter alpha, from which it derives. The upper-case version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lower-case version can be written in two forms: the double-storey a and single-storey ɑ. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.
+
+
+
+===
